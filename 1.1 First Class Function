@@ -1,5 +1,1 @@
-First class functions should have following characteristics:
 
-Passing function as arguments to other functions
-Returning them as the values from other function
-Assign function to a variable
