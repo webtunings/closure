@@ -31,6 +31,15 @@ console.log(typeof info); 'string'
 //--------------------------------------------------------
 //Returning them as the values from other function
 
+function outer(x){
+    var secret = 5;
+    return function(){
+        console.log(secret + x);
+    }
+}
+
+var inner = outer(10);
+inner(); //15
 
 
 
