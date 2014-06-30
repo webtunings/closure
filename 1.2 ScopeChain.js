@@ -65,7 +65,7 @@ function scopeTest2(){
     console.log(a); //100
     console.log(b); //200
     console.log(c); //300
-    console.log(g); //1000
+    console.log(g); //1
 }
 
 scopeTest2();
