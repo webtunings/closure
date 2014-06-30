@@ -6,15 +6,11 @@ Part 1 Preparing for the journey
 
 1.1 First class functions
 
-1.2 Anonymous functions
+1.2 Lexical scope and scope chain
 
-1.3 Lexical scope and scope chain
+1.3 Indirect invocation and function binding
 
-1.4 Indirect invocation and function binding
-
-1.5 Prototype chain
-
-1.6 Summary
+1.4 Summary
 
 2 Understanding closures 
 
