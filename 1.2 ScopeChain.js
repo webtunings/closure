@@ -138,10 +138,9 @@ console.log(typeof inner === "function"); //false
 
 
 //-------------------------------------------------------------------------------
-
-//Listing 1.7 - Scope Test3
+//Listing 1.7 - Scope Test4
 var g = 1000;
-function scopeTest3(){
+function scopeTest4(){
     console.log(a); //undefined
     console.log(b); //undefined
     console.log(c); //undefined
@@ -190,10 +189,21 @@ function scopeTest3(){
     inner();
 }
 
-scopeTest3();
+scopeTest4();
 //console.log(a); ReferenceError
 //console.log(b); ReferenceError
 //console.log(c); ReferenceError
 //console.log(d); ReferenceError
 console.log(g); //1000
 console.log(typeof inner === "function"); //false
+
+
+//---------------------------------------------------------------------------------
+//Listing 1.8 - Scope Test5
+var x = 1;
+function scopeTest5() {
+    var x=2; //This is closure - wait for chapter 2
+    return function(){ console.log(x);}
+}
+
+scopeTest5()(); //2
