@@ -34,3 +34,4 @@ console.log(Object.getOwnPropertyDescriptor(testObject2,"p").enumerable); //fals
 console.log(Object.getOwnPropertyDescriptor(testObject2,"q").enumerable); //false
 console.log(Object.getOwnPropertyDescriptor(testObject2,"r").enumerable); //true
 
+//-------------------------------------------------------------------------------
