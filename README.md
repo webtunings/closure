@@ -1,6 +1,6 @@
 JavaScript Closures In Depth
 
-Part 1 Preparing for the journey
+**Part 1 Preparing for the journey**
 
 **1.1 First class functions**
 
