@@ -10,7 +10,7 @@ JavaScript Closures In Depth
 
  **1.1.3 Returning function as a value from other function**
 
-1.2 Lexical scope and scope chain
+1.2 Scope chain
 
 1.3 Indirect invocation and function binding
 
