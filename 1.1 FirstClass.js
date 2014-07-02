@@ -1,7 +1,7 @@
 //Listing 1.1 - Assign function to a variable
 
 //Returns the circumference of a circle
-var circumference = function(circle){
+var circumference = function(circle) {
     return 2*Math.PI*circle.radius;
 };
 //define circle object
