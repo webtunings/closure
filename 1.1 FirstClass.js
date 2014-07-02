@@ -19,7 +19,7 @@ This is a JSON replacer function, which filters out property
 "radius" from object serialization process
 */
 
-var filter = function(key,value){
+var filter = function(key,value) {
 //don't serialize property "radius"
     if(key === "radius"){
         return undefined;
