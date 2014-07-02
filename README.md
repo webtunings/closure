@@ -3,10 +3,11 @@ JavaScript Closures In Depth
 Part 1 Preparing for the journey
 
 1.1 First class functions
+
  1.1.1 Assign function to a variable
 
  1.1.2 Passing function as argument to another function
- 
+
  1.1.3 Returning function as a value from other function
 
 1.2 Lexical scope and scope chain
