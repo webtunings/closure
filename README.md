@@ -11,16 +11,25 @@ JavaScript Closures In Depth
  **1.1.3 Returning function as a value from other function**
 
 1.2 Scope chain
+
  1.2.1 Scope test 1
+
  1.2.2 Scope test 2
+
  1.2.3 Scope test 3
+
  1.2.4 Scope test 4
+
  1.2.5 Scope test 5
 
 1.3 Invocation context
+
  1.3.1 Function invocation
+
  1.3.2 Method invocation
+
  1.3.3 Constructor invocation
+
  1.3.4 Indirect invocation
 
 1.4 Summary
