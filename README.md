@@ -16,9 +16,9 @@ JavaScript Closures In Depth
 
  **Rule 2: Variable assignment hoisting rule**
 
- Rule 3: Function declaration statement hoisting rule
+ **Rule 3: Function declaration statement hoisting rule**
 
- Rule 4: Function definition expression hoisting rule
+ **Rule 4: Function definition expression hoisting rule**
 
 1.3 Invocation context
 
