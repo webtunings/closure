@@ -1,4 +1,4 @@
-JavaScript Closures In Depth
+JavaScript Closure In Depth
 
 **Part 1 Preparing for the journey**
 
