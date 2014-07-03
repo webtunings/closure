@@ -9,7 +9,9 @@ function outer() {
     console.log(typeof inner === "function");
     //false
 
-    var inner = function () { console.log("I am not hoisted at the top");}
+    var inner = function () {
+        console.log("I am not hoisted at the top");
+    };
 
     //function inner is in scope here
     // it could be invoked at this place
