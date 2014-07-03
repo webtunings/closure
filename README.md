@@ -30,7 +30,6 @@ JavaScript Closures In Depth
 
  1.3.4 Indirect invocation
 
-1.4 Summary
 
 2 Understanding closures 
 
@@ -38,7 +37,7 @@ JavaScript Closures In Depth
 
 2.2 Ways to create closure
 
-2.3 Summary 
+
 
 Part 2 Closure applications 
 
@@ -62,7 +61,6 @@ Part 2 Closure applications
 
 3.9 Canvas RequestAnimationFrame API and closure
 
-3.10 Summary
 
 4 Maintaining privacy 
 
@@ -74,7 +72,6 @@ Part 2 Closure applications
 
 4.4 Namespaces
 
-4.5 Summary 
 
 5 OOP optimizations 
 
@@ -84,7 +81,6 @@ Part 2 Closure applications
 
 5.3 Function constructor and closure rule 
 
-5.4 Summary
 
 6 Design patterns and closure 
 
@@ -102,7 +98,6 @@ Part 2 Closure applications
 
 6.3 Factory pattern 
 
-6.4 Summary 
 
 7 Currying and Memoization
 
@@ -116,12 +111,9 @@ Part 2 Closure applications
 
 7.2 Memoization 
 
-7.3 Summary 
 
 8 Memory sharing patterns
 
 8.1 Common memory
 
 8.2 Independent scope chain
-
-8.3 Summary
