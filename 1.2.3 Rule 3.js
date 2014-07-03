@@ -9,7 +9,9 @@ function outer() {
     console.log(typeof inner === "function");
     //true
 
-    function inner() { console.log("I can be invoked anywhere inside outer function");}
+    function inner() {
+        console.log("I can be invoked anywhere inside outer function");
+    }
 
     //function inner is in scope here
     // it could be invoked at this place
