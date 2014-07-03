@@ -18,7 +18,7 @@ JavaScript Closures In Depth
 
  Rule 3: Function declaration statement hoisting rule
 
- Rule 4: Function definition statement hoisting rule
+ Rule 4: Function definition expression hoisting rule
 
 1.3 Invocation context
 
