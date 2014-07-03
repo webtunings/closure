@@ -10,11 +10,11 @@ JavaScript Closures In Depth
 
  **1.1.3 Returning function as a value from other function**
 
-1.2 Scoping
+**1.2 Scoping**
 
- Rule 1: Variable declaration hoisting rule
+ **Rule 1: Variable declaration hoisting rule**
 
- Rule 2: Variable assignment hoisting rule
+ **Rule 2: Variable assignment hoisting rule**
 
  Rule 3: Scope starts at the start point of declaration
 
