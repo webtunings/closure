@@ -16,8 +16,6 @@ JavaScript Closures In Depth
 
  **Rule 2: Variable assignment hoisting rule**
 
- Rule 3: Scope starts at the start point of declaration
-
  Rule 4: Function declaration statement hoisting rule
 
  Rule 5: Function definition statement hoisting rule
