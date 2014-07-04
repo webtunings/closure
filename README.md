@@ -20,9 +20,9 @@ JavaScript Closure In Depth
 
  **Rule 4: Function definition expression hoisting rule**
 
-1.3 Invocation context
+**1.3 Invocation context**
 
- 1.3.1 Function invocation
+ **1.3.1 Function invocation**
 
  1.3.2 Method invocation
 
