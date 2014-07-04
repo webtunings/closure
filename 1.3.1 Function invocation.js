@@ -1,6 +1,6 @@
 //Listing 1.7 Function invocation
 
-//This function return the word boundaries of a string
+//This function returns the word boundaries of a string
 //\w to \W or \W to \b transition is a word boundary
 function wordBoundaries(subject) {
     //regex for word boundary position
