@@ -119,9 +119,12 @@ Part 2 Closure applications
 
 7.2 Memoization 
 
+8 Utilities
 
-8 Memory sharing patterns
+ 8.1 monkey patching
 
-8.1 Common memory
+9 Memory sharing patterns
 
-8.2 Independent scope chain
+9.1 Common memory
+
+9.2 Independent scope chain
