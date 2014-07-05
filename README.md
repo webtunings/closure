@@ -26,7 +26,9 @@ JavaScript Closure In Depth
 
  **1.3.2 Method invocation**
 
- 1.3.3 Constructor invocation
+ **1.3.3 Constructor invocation**
+
+ **1.3.3.1 Using prototype object**
 
  1.3.4 Indirect invocation
 
