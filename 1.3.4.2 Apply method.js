@@ -1,7 +1,7 @@
 //Listing 1.12 - call & apply with arguments
 
 //this function makes all arguments non enumerable
-var makeNonEnumerable = function(){
+var makeNonEnumerable = function() {
     //iterate over all arguments and change the enumerable attribute false
     for(var i=0; i < arguments.length; i++){
         Object.defineProperty(this,arguments[i],{enumerable:false});
