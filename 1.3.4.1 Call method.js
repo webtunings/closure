@@ -1,7 +1,7 @@
 //Listing 1.11 - Call method
 
 //This is a function that returns the circumference of a circle
-//This keyword is not associated with any object
+//this keyword is not associated with any object
 var circumference = function(){
     return 2*Math.PI*this.radius;
 };
