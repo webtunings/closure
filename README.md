@@ -24,7 +24,7 @@ JavaScript Closure In Depth
 
  **1.3.1 Function invocation**
 
- 1.3.2 Method invocation
+ **1.3.2 Method invocation**
 
  1.3.3 Constructor invocation
 
