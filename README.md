@@ -30,9 +30,9 @@ JavaScript Closure In Depth
 
  **1.3.3.1 Using prototype object**
 
- 1.3.4 Indirect invocation
+ **1.3.4 Indirect invocation**
 
- 1.3.4.1 Call method
+ **1.3.4.1 Call method**
 
  1.3.4.2 Apply method
 
