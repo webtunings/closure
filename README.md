@@ -34,7 +34,7 @@ JavaScript Closure In Depth
 
  **1.3.4.1 Call method**
 
- 1.3.4.2 Apply method
+ **1.3.4.2 Apply method**
 
  1.3.4.3 Binding
 
