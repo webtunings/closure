@@ -2,15 +2,15 @@ JavaScript Closure In Depth
 
 **Part 1 Preparing for the journey**
 
-**1.1 First class functions**
+**1 First class functions**
 
- **1.1.1 Assign function to a variable**
+ **1.1 Assign function to a variable**
 
- **1.1.2 Passing function as argument to another function**
+ **1.2 Passing function as argument to another function**
 
- **1.1.3 Returning function as a value from other function**
+ **1.3 Returning function as a value from other function**
 
-**1.2 Scoping**
+**2 Scoping**
 
  **Rule 1: Variable declaration hoisting rule**
 
@@ -20,27 +20,27 @@ JavaScript Closure In Depth
 
  **Rule 4: Function definition expression hoisting rule**
 
-**1.3 Invocation context**
+**3 Invocation context**
 
- **1.3.1 Function invocation**
+ **3.1 Function invocation**
 
- **1.3.2 Method invocation**
+ **3.2 Method invocation**
 
- **1.3.3 Constructor invocation**
+ **3.3 Constructor invocation**
 
- **1.3.3.1 Using prototype object**
+ **3.3.1 Using prototype object**
 
- **1.3.4 Indirect invocation**
+ **3.4 Indirect invocation**
 
- **1.3.4.1 Call method**
+ **3.4.1 Call method**
 
- **1.3.4.2 Apply method**
+ **3.4.2 Apply method**
 
- **1.3.4.3 Testing enumerability**
+ **3.4.3 Testing enumerability**
 
- 1.3.4.4 Binding
+ 3.4.4 Binding
 
- 1.3.5 this & nested function issue
+ 3.5 this & nested function issue
 
 
 2 Understanding closures 
