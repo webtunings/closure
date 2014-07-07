@@ -1,4 +1,4 @@
-//Listing 1.14 this & nested function issue
+//Listing 1.14 Basic reducer function
 
 var reducer = {
     a: [100,200,300],
