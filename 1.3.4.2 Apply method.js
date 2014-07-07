@@ -25,7 +25,8 @@ console.log(Object.getOwnPropertyDescriptor(testObject2,"p").enumerable); //fals
 console.log(Object.getOwnPropertyDescriptor(testObject2,"q").enumerable); //false
 console.log(Object.getOwnPropertyDescriptor(testObject2,"r").enumerable); //true
 
-for(var property in testObject1){
+var property;
+for(property in testObject1){
     console.log(property);
 }
 //z
