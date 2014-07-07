@@ -24,3 +24,8 @@ makeNonEnumerable.apply(testObject2,["p","q"]);
 console.log(Object.getOwnPropertyDescriptor(testObject2,"p").enumerable); //false
 console.log(Object.getOwnPropertyDescriptor(testObject2,"q").enumerable); //false
 console.log(Object.getOwnPropertyDescriptor(testObject2,"r").enumerable); //true
+
+for(var property in testObject1){
+    console.log(property);
+}
+//z
