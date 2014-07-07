@@ -40,6 +40,8 @@ JavaScript Closure In Depth
 
  1.3.4.4 Binding
 
+ 1.3.5 this & nested function issue
+
 
 2 Understanding closures 
 
