@@ -36,7 +36,9 @@ JavaScript Closure In Depth
 
  **1.3.4.2 Apply method**
 
- 1.3.4.3 Binding
+ **1.3.4.3 Testing enumerability**
+
+ 1.3.4.4 Binding
 
 
 2 Understanding closures 
