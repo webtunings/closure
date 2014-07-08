@@ -1,4 +1,4 @@
-//Listing 1.15 Using this inside nested function
+//Listing 1.16 Using this inside nested function
 
 //reducer object has one array a and method reduce
 //reduce does the job of reducing using reduce method 0.5*(x+y)
