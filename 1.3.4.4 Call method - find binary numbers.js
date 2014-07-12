@@ -7,7 +7,7 @@ regex pattern checks digit (0 or 1) one or more times between word boundaries
 + -> repeat 1 or more time - you can make it lazy by +?
 [01]+ -> repeat 0 or 1 one or more time
 g -> global match
-match method -> return array with all matches
+match method -> return an array with all matches
 */
 
 function binaryNumbers() {
