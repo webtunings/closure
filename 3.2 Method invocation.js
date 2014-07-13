@@ -1,4 +1,3 @@
-//Listing 1.8 Method invocation
 
 //define cylinder object
 var cylinder = {

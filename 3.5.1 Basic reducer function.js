@@ -1,4 +1,3 @@
-//Listing 1.14 Basic reducer function
 
 //reducer object has one array a and method reduce
 //reduce does the job of reducing using reduce method 0.5*(x+y)

@@ -1,4 +1,3 @@
-//Listing 1.3 - Returning function as the value from other function
 
 //define outer function that returns inner function
 function outer(x) {

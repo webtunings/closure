@@ -1,4 +1,3 @@
-//Listing : call method internals
 
 /*
  this function finds all binary numbers inside a string

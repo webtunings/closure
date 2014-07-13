@@ -1,4 +1,3 @@
-//Listing 1.10 using prototype object
 
 //This is a constructor function
 //Accepts 2 arguments and set the newly created object's properties

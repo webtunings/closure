@@ -1,4 +1,3 @@
-//Listing 1.6 Function definition expression hoisting rule
 
 //This function illustrates the hoisting of function definition expression
 function outer() {

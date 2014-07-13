@@ -1,4 +1,3 @@
-//Listing 1.5 Function declaration statement hoisting rule
 
 //This function illustrates the hoisting of function statement
 function outer() {

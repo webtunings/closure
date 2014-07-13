@@ -1,4 +1,3 @@
-//bind method
 
 // This function filters all positive values from an array
 // this keyword is not associated with any object

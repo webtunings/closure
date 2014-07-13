@@ -1,4 +1,3 @@
-//Listing 1.12 - call & apply with arguments
 
 //this function makes all arguments non enumerable
 var makeNonEnumerable = function() {

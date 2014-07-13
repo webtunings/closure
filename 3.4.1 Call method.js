@@ -1,4 +1,3 @@
-//Listing 1.11 - Call method
 
 //This is a function that returns the circumference of a circle
 //this keyword is not associated with any object

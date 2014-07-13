@@ -1,4 +1,3 @@
-//Listing 1.2 - Passing function as arguments to other functions
 
 /*
  This is a JSON replacer function, which filters out property
