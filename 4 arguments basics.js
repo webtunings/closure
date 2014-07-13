@@ -2,7 +2,6 @@
 /*
 this function tries to explain the flexibility of arguments supplied
 */
-
 function test(x,y) {
     // I don't do anything
     console.log(x);
